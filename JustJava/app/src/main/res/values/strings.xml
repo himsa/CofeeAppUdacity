@@ -1,0 +1,17 @@
+<resources xmlns:xlif="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Just Java</string>
+    <string name="name">Name</string>
+    <string name="whippedCream">Whipped Cream</string>
+    <string name="chocolate">Chocolate</string>
+    <string name="quantity">Quantity</string>
+    <string name="initial_quantity_value">1</string>
+    <string name="order">Order</string>
+    <string name="order_summary_name">Name: <xlif:g id = "name" example="Amy">%s</xlif:g></string>
+    <string name="order_summary_whipped_cream">Add whipped cream? <xlif:g id = "addWhippedCream" example="true">%b</xlif:g></string>
+    <string name="order_summary_chocolate">Name: <xlif:g id = "addChocolate" example="true">%b</xlif:g></string>
+    <string name="order_summary_quantity">Name: <xlif:g id = "numberOfCoffees" example="2">%d</xlif:g></string>
+    <string name="order_summary_price">Name: <xlif:g id = "price" example="$10">%s</xlif:g></string>
+    <string name="thank_you">Thank You!</string>
+    <string name="order_summary_email_subject">Just Java order for <xlif:g id = "name" example="Amy">%s</xlif:g></string>
+    <string name="toppings">Toppings</string>
+</resources>
